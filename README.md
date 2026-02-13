@@ -13,7 +13,15 @@ Görme engelli bireylerin market alışverişlerini kimseye ihtiyaç duymadan ve
 *   **Backend:** Supabase (PostgreSQL)
 *   **Yapay Zeka:** Python / Google Cloud Vision API
 
+
 ## Kurulum
+Her klasörün kendi içinde detaylı (`README.md`) kurulum rehberi vardır.
+
+### Mobil Uygulama
 1.  `mobil-uygulama` klasörüne gidin.
 2.  `npm install` komutunu çalıştırın.
-3.  `npx expo start` ile uygulamayı başlatın.
+3.  `npx expo start` ile başlatın.
+
+### Backend (Supabase)
+Veritabanı kurulumu ve `schema.sql` dosyası `backend` klasöründedir.
+Supabase bağlantı bilgileri (URL ve Key) `mobil-uygulama/.env` dosyasında tanımlıdır.

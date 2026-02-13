@@ -62,6 +62,8 @@ Herkesin bir ana görevi, bir de yan görevi olmalı. Böylece kimse boş kalmaz
 ### 1. Takım Kaptanı & Backend (Supabase) Sorumlusu
 *   **Ana Görev:** Proje takvimi, Raporlama (PDR), Sunum Hazırlığı.
 *   **Teknik Görev:** Supabase Kurulumu, Veritabanı (PostgreSQL) Tasarımı, Güvenlik Kuralları (RLS).
+    *   **Veritabanı Şeması:** `profiles` (Kullanıcılar), `products` (Ürünler), `help_requests` (Yardım Çağrıları).
+    *   **Güvenlik:** RLS (Row Level Security) ile kullanıcı verilerinin izolasyonu.
 *   **Yan Görev:** Diğer üyelere kod desteği.
 
 ### 2. Mobil Geliştirici Lideri (React Native - UI/UX)
