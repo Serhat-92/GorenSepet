@@ -1,4 +1,4 @@
-# Engelsiz Alışveriş (Teknofest Projesi)
+# GörenSepet (Eski Adı: Engelsiz Alışveriş)
 
 Görme engelli bireylerin market alışverişlerini kimseye ihtiyaç duymadan veya kolayca yardım alarak yapabilmelerini sağlayan mobil uygulama projesi.
 

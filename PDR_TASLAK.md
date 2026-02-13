@@ -1,6 +1,6 @@
 # PROJE DETAY RAPORU (PDR) TASLAĞI
 **Takım Adı:** [Takım Adı Buraya]
-**Proje Adı:** Engelsiz Alışveriş
+**Proje Adı:** GörenSepet
 **Kategori:** Engelsiz Yaşam Teknolojileri
 
 ## 1. Proje Özeti (Abstract)

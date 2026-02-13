@@ -29,7 +29,7 @@ export default function App() {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Engelsiz Alışveriş</Text>
+      <Text style={styles.title}>GörenSepet</Text>
       <Text style={styles.status}>{message}</Text>
       <Text style={styles.count}>Veritabanındaki Ürün Sayısı: {productCount}</Text>
       <Text style={styles.info}>

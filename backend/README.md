@@ -1,4 +1,4 @@
-# Engelsiz Alışveriş - Backend (Supabase)
+# GörenSepet - Backend (Supabase)
 
 Bu proje backend servisi olarak **Supabase** kullanmaktadır. Supabase, Firebase'in açık kaynaklı alternatifidir ve **PostgreSQL** veritabanı üzerine kuruludur.
 

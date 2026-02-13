@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "mobil-uygulama",
-    "slug": "mobil-uygulama",
+    "name": "GörenSepet",
+    "slug": "goren-sepet",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

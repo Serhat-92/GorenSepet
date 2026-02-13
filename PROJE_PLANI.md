@@ -1,4 +1,4 @@
-# Engelsiz Alışveriş - Teknofest Proje Planı
+# GörenSepet - Teknofest Proje Planı
 
 ## 1. Proje Değerlendirmesi
 Fikriniz "Engelsiz Yaşam Teknolojileri" kategorisi için oldukça uygun ve sosyal etkisi yüksek bir proje. Teknofest bu tarz sosyal sorumluluk projelerine çok önem veriyor.
