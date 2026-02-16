@@ -25,3 +25,13 @@ Her klasörün kendi içinde detaylı (`README.md`) kurulum rehberi vardır.
 ### Backend (Supabase)
 Veritabanı kurulumu ve `schema.sql` dosyası `backend` klasöründedir.
 Supabase bağlantı bilgileri (URL ve Key) `mobil-uygulama/.env` dosyasında tanımlıdır.
+
+## Katkıda Bulunanlar (Contributors)
+
+Bu proje, aşağıdaki ekip üyelerinin katkılarıyla geliştirilmektedir:
+
+*   **Yusuf Serhat Tümtürk** (@Serhat-92)
+*   **Işık Ramazanoğlu** (@isikramazanoglu)
+*   **Emre Duman** (@emredumannn)
+*   **Aleyna** (@AleynaSl)
+*   **Şevval** (@Sevval-Karagun)

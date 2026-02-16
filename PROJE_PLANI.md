@@ -59,26 +59,26 @@ Engelli bireyin yanlış veya istenmeyen ürün almasını önlemek için yapay 
 
 Herkesin bir ana görevi, bir de yan görevi olmalı. Böylece kimse boş kalmaz.
 
-### 1. Takım Kaptanı & Backend (Supabase) Sorumlusu
+### 1. Takım Kaptanı & Backend (Supabase) Sorumlusu: **Serhat Çifçi** (@Serhat-92)
 *   **Ana Görev:** Proje takvimi, Raporlama (PDR), Sunum Hazırlığı.
 *   **Teknik Görev:** Supabase Kurulumu, Veritabanı (PostgreSQL) Tasarımı, Güvenlik Kuralları (RLS).
     *   **Veritabanı Şeması:** `profiles` (Kullanıcılar), `products` (Ürünler), `help_requests` (Yardım Çağrıları).
     *   **Güvenlik:** RLS (Row Level Security) ile kullanıcı verilerinin izolasyonu.
 *   **Yan Görev:** Diğer üyelere kod desteği.
 
-### 2. Mobil Geliştirici Lideri (React Native - UI/UX)
+### 2. Mobil Geliştirici Lideri (React Native - UI/UX): **Emre Duman** (@emredumannn)
 *   **Ana Görev:** Uygulamanın genel iskeletini kurmak (Navigation), ekran tasarımlarını (Login, Home) kodlamak.
 *   **Yan Görev:** Uygulamanın renk paleti ve kullanıcı deneyimi (Erişilebilirlik) standartlarını belirlemek.
 
-### 3. Mobil Geliştirici (Fonksiyonel & Mantık)
+### 3. Mobil Geliştirici (Fonksiyonel & Mantık): **Işık Ramazanoğlu** (@isikramazanoglu)
 *   **Ana Görev:** Sesli Komut (Voice-to-Text) ve Metin Okuma (Text-to-Speech) entegrasyonu.
 *   **Yan Görev:** Bluetooth Beacon entegrasyonu (Personel çağırma mantığı).
 
-### 4. Yapay Zeka (AI) & Algoritma Sorumlusu
+### 4. Yapay Zeka (AI) & Algoritma Sorumlusu: **Aleyna** (@AleynaSl)
 *   **Ana Görev:** "Akıllı Alışveriş Listesi" (NLP) algoritmasını yazmak. (Python veya JS ile basit bir API).
 *   **Teknik Görev:** Güvenlik için görsel doğrulama (Google Vision API veya benzeri) mantığını araştırıp entegre etmek.
 
-### 5. Test, Dokümantasyon & Medya Sorumlusu
+### 5. Test, Dokümantasyon & Medya Sorumlusu: **Şevval** (@Sevval-Karagun)
 *   **Ana Görev:** Uygulamayı sürekli test edip hataları (bug) bulmak ve GitHub'a girmek.
 *   **Yan Görev:** Teknofest tanıtım videosunu çekmek, proje raporlarını yazmak, sunum görsellerini hazırlamak.
 

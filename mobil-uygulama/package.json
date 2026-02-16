@@ -2,6 +2,13 @@
   "name": "mobil-uygulama",
   "version": "1.0.0",
   "main": "index.js",
+  "contributors": [
+    "Serhat Çifçi <Serhat-92>",
+    "Işık Ramazanoğlu <isikramazanoglu>",
+    "Emre Duman <emredumannn>",
+    "Aleyna <AleynaSl>",
+    "Şevval <Sevval-Karagun>"
+  ],
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
