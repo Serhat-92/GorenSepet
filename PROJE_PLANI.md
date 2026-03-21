@@ -59,7 +59,7 @@ Engelli bireyin yanlış veya istenmeyen ürün almasını önlemek için yapay 
 
 Herkesin bir ana görevi, bir de yan görevi olmalı. Böylece kimse boş kalmaz.
 
-### 1. Takım Kaptanı & Backend (Supabase) Sorumlusu: **Serhat Çifçi** (@Serhat-92)
+### 1. Takım Kaptanı & Backend (Supabase) Sorumlusu: **Serhat Tümtürk** (@Serhat-92)
 *   **Ana Görev:** Proje takvimi, Raporlama (PDR), Sunum Hazırlığı.
 *   **Teknik Görev:** Supabase Kurulumu, Veritabanı (PostgreSQL) Tasarımı, Güvenlik Kuralları (RLS).
     *   **Veritabanı Şeması:** `profiles` (Kullanıcılar), `products` (Ürünler), `help_requests` (Yardım Çağrıları).
