@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "name": "GörenSepet",
+    "slug": "goren-sepet",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSMicrophoneUsageDescription": "Uygulama sesli komutları algılamak için mikrofonu kullanır.",
+        "NSSpeechRecognitionUsageDescription": "Uygulama sesinizi metne çevirmek için izin ister.",
+        "NSBluetoothAlwaysUsageDescription": "Uygulama personel ünitelerini (Beacon) bulmak için Bluetooth kullanır.",
+        "NSLocationWhenInUseUsageDescription": "Uygulama mağaza içindeki konumunuzu ve yakındaki personel standlarını belirlemek için konum izni ister.",
+        "NSLocationAlwaysAndWhenInUseUsageDescription": "Uygulama mağaza içindeki konumunuzu ve yakındaki personel standlarını belirlemek için konum izni ister."
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "permissions": [
+        "RECORD_AUDIO",
+        "BLUETOOTH_SCAN",
+        "BLUETOOTH_CONNECT",
+        "ACCESS_FINE_LOCATION",
+        "ACCESS_COARSE_LOCATION"
+      ]
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
